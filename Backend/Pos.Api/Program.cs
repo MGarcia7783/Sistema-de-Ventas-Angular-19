@@ -1,4 +1,20 @@
+
+using Microsoft.EntityFrameworkCore;
+using Pos.Model.Context;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Obtener y validar la cadena de conexión de la base de datos
+var connetionsString = builder.Configuration.GetConnectionString("Connection");
+if(string.IsNullOrEmpty(connetionsString))
+{
+    throw new InvalidOperationException("La cadena de conexión 'Conecction' no está configurada");
+}
+
+builder.Services.AddDbContext<PosContext>(options =>
+{
+    options.UseNpgsql(connetionsString);
+});
 
 // Add services to the container.
 

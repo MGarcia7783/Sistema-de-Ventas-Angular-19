@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qVLuTqDu5ZQ=",
+  "dgSpecHash": "/SViuyg0pOA=",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Dto\\Pos.Dto.csproj",
+  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Dto\\Pos.Dto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prueb\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\prueb\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

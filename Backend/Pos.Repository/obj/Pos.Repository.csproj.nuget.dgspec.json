@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\Pos.Repository.csproj": {}
+    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\Pos.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\Pos.Model.csproj": {
+    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\Pos.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\Pos.Model.csproj",
+        "projectUniqueName": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\Pos.Model.csproj",
         "projectName": "Pos.Model",
-        "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\Pos.Model.csproj",
+        "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\Pos.Model.csproj",
         "packagesPath": "C:\\Users\\prueb\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\obj\\",
+        "outputPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\Pos.Repository.csproj": {
+    "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\Pos.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\Pos.Repository.csproj",
+        "projectUniqueName": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\Pos.Repository.csproj",
         "projectName": "Pos.Repository",
-        "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\Pos.Repository.csproj",
+        "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\Pos.Repository.csproj",
         "packagesPath": "C:\\Users\\prueb\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\obj\\",
+        "outputPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\Pos.Model.csproj": {
-                "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Model\\Pos.Model.csproj"
+              "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\Pos.Model.csproj": {
+                "projectPath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Model\\Pos.Model.csproj"
               }
             }
           }

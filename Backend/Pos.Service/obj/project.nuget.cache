@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bD7t/ZhXenc=",
+  "dgSpecHash": "Pc6/ZdySSf4=",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Service\\Pos.Service.csproj",
+  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Service\\Pos.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prueb\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\prueb\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

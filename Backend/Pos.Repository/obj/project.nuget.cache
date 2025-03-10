@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLXdG37LpOE=",
+  "dgSpecHash": "CcJWGaeESNI=",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Backend\\Pos.Repository\\Pos.Repository.csproj",
+  "projectFilePath": "C:\\Desarrollo_Aplicaciones_IV\\Regular\\Sistema-de-Ventas-Angular-19\\Backend\\Pos.Repository\\Pos.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prueb\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
     "C:\\Users\\prueb\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
